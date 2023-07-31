@@ -1,0 +1,27 @@
+{
+  "name": "rickroll-ultimate",
+  "version": "1.0.1",
+  "description": "Rickroll anyone with this amazing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheSnakeByte/rickroll-ultimate.git"
+  },
+  "keywords": [
+    "Rickroll, fun"
+  ],
+  "author": "SnakeByte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheSnakeByte/rickroll-ultimate/issues"
+  },
+  "homepage": "https://github.com/TheSnakeByte/rickroll-ultimate#readme",
+  "dependencies": {
+    "console-png": "^1.2.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
